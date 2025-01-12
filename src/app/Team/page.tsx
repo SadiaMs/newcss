@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
 
-<section className='team-section'>
+<section className='team-section' style={{backgroundImage: "url(abbu.png)"}}>
         <div className='containers'>
           <h1>Meet Our Team</h1>
           <p>
